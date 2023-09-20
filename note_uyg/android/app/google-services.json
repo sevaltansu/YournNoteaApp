@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1091260304478",
+    "project_id": "note-ec4d3",
+    "storage_bucket": "note-ec4d3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1091260304478:android:ee98128dd2beb51bac38cf",
+        "android_client_info": {
+          "package_name": "com.example.note_uyg"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtbhwEHrjfBHGq0naem0s9XZ_z70pXdes"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
