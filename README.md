@@ -21,6 +21,8 @@ Bu uygulama, kişisel notlarınızı kaydetmenizi ve düzenlemenizi sağlayan ba
 -  cloud_firestore: ^4.9.1
   
 ##Uygulama Ekran Görüntüleri
+
+
 ![not1](https://github.com/sevaltansu/YournNoteaApp/assets/72619752/efde747a-30ae-490f-8e79-592020793d01)
 ![not2](https://github.com/sevaltansu/YournNoteaApp/assets/72619752/749adf35-520d-460d-a91c-476d540fc205)
 ![not3](https://github.com/sevaltansu/YournNoteaApp/assets/72619752/51018bd2-23c9-41c7-a0f3-c115335b635a)
